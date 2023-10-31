@@ -3,6 +3,8 @@ import Header from './Components/header';
 import Footer from './Components/footer';
 import Hero from './Components/Section1-Main';
 import Badges from './Components/Section-Cards';
+import CarouselComponent from './Components/Carousel';
+
 
 function App() {
   return (
@@ -10,6 +12,7 @@ function App() {
       <Header/>
       <Hero/>
       <Badges/>
+      <CarouselComponent/>
       <Footer/>
 
     </div>
