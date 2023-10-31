@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DthePOD/static/css/main.4cc46707.css",
+    "main.js": "/DthePOD/static/js/main.9ca452e3.js",
+    "static/js/787.cf6065fa.chunk.js": "/DthePOD/static/js/787.cf6065fa.chunk.js",
+    "static/media/BGmain1.jpg": "/DthePOD/static/media/BGmain1.65c38add57b38cd1106b.jpg",
+    "static/media/intel.svg": "/DthePOD/static/media/intel.81998a4bcc2892a515c946a56e55a183.svg",
+    "static/media/FOOT ICON2.svg": "/DthePOD/static/media/FOOT ICON2.569a59b271641bf362c5a6e1bc1c37ec.svg",
+    "static/media/circle check.svg": "/DthePOD/static/media/circle check.84e6f7cea3b3704e83547370838b5e0a.svg",
+    "static/media/house.svg": "/DthePOD/static/media/house.c28847304787195625a431d72ae0479e.svg",
+    "index.html": "/DthePOD/index.html",
+    "static/media/plusnotenote+.svg": "/DthePOD/static/media/plusnotenote+.55042cd815b2923f8cdce6f120423190.svg",
+    "main.4cc46707.css.map": "/DthePOD/static/css/main.4cc46707.css.map",
+    "main.9ca452e3.js.map": "/DthePOD/static/js/main.9ca452e3.js.map",
+    "787.cf6065fa.chunk.js.map": "/DthePOD/static/js/787.cf6065fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cc46707.css",
+    "static/js/main.9ca452e3.js"
+  ]
+}
